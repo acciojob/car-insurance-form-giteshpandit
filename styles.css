@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.required:before{
+	content:"Yes";
+	font-weight: bold;
+	color:pink;
+}
+div{
+margin:20px;
+}
